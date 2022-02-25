@@ -6,7 +6,7 @@
 4. [Inline_block-Elements](#Inline_block_elements)
 5. [Positions](#Positions)
 6. [flexbox](#Flexbox)
-7. [Media Query](#Media Query)
+7. [Media_Query](#Media_Query)
 
 ***
 ### General Info
@@ -27,6 +27,6 @@ Examples about the five Positions (Static,relative,absolute,fixed,sticky) of ele
 ### flexbox
 Introduction to flexbox + examples
 ***
-### Media Query
+### Media_Query
 Introduction to Media Query and responsive design + examples
 ***
